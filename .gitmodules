@@ -4,3 +4,6 @@
 [submodule "rct-sprngbt-phtgllry-PWA"]
 	path = rct-sprngbt-phtgllry-PWA
 	url = https://github.com/lentiummmx/rct-sprngbt-phtgllry-PWA.git
+[submodule "rct-app-1"]
+	path = rct-app-1
+	url = https://github.com/lentiummmx/rct-app-1.git
